@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=xLeviNx&color=7289da)
 
 
-[![](https://raw.githubusercontent.com/xLeviNx/xLeviNx/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/xLeviNx/xLeviNx/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xLeviNx/xLeviNx/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/xLeviNx/xLeviNx/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xLeviNx/xLeviNx/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xLeviNx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xLeviNx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xLeviNx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xLeviNx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xLeviNx&theme=aura_dark)
