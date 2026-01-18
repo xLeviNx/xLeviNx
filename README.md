@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=xLeviNx&color=7289da)
+![](https://komarev.com/ghpvc/?username=xLeviNx&color=7289da) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4PNCFP)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xLeviNx&theme=transparent)
